@@ -6,13 +6,13 @@
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
     <title>Veridol</title>
 
-    <link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
-    <link rel="stylesheet" href="{!! asset('css/bootstrap.min.css') !!}">
+    <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     <!-- Custom styles for our template -->
-    <link rel="stylesheet" href="{!! asset('css/bootstrap-theme.css') !!}" media="screen" >
-    <link rel="stylesheet" href="{!! asset('css/main.css') !!}">
+    <link rel="stylesheet" href="css/bootstrap-theme.css" media="screen" >
+    <link rel="stylesheet" href="css/main.css">
 
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -227,10 +227,10 @@
 
 
     <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-    <script src="{!! asset('js/headroom.min.js') !!}"></script>
-    <script src="{!! asset('js/template.js') !!}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="js/headroom.min.js"></script>
+    <script src="js/template.js"></script>
     <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52d8f8d75dfc85f4"></script> -->
 </body>
 </html>
